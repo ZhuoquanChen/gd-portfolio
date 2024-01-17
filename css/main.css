@@ -148,7 +148,7 @@ ul li {
 .navigation a {
 	color: rgba(255, 255, 255, 0.75);
 	font-size: 15px;
-	font-weight: 250;
+	font-weight: 300;
 	letter-spacing: 7px;
 	text-transform: uppercase;
 }
@@ -297,13 +297,13 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url("../images/main-pic3.jpg");
+	background-image: url("../images/main-pic5.jpg");
 	background-position: center, top center;
 	background-color: black;
 	min-height: 800px;
 }
 .banner-text {
-	padding-top: 12%;
+	padding-top: 45%;
     text-align: right;
 }
 .banner-text h1 {
@@ -311,14 +311,16 @@ ul li {
 	font-family: "Roboto Slab", sans-serif;
 	font-size: 70px;
 	opacity: 0.85;
+	margin-right: -60px;
 }
 .banner-text p {
 	color: #fff;
-	font-size: 17px;
+	font-size: 14px;
 	font-weight: 230;
 	letter-spacing: 0.8px;
 	line-height: 30px;
 	opacity: 0.85;
+	margin-right: -55px;
 }
 /* ------------------------------------------------------------------------------
 	About Me Text
@@ -556,7 +558,7 @@ ul li {
 }
 .footer .footer-share li {
 	border: 1.4px solid black;
-	background: #fafafa none repeat scroll 0 0;
+	background: #fafafa;
 	color: black;
 	width: 40px;
 	height: 40px;
@@ -572,7 +574,7 @@ ul li {
  }
 .footer .fa-heart {
 	color: #e84545;
-	font-size: 2px;
+	font-size: px;
 }
 .footer .footer-share li:hover {
 	background-color: black;
@@ -640,7 +642,7 @@ border-radius:50%;
 -------------------------------------------------------------------------------*/
 .conForm
 {
-margin-top:50px;	
+	margin-top:50px;	
 }
 .conForm input {
 	background:#fafafa;
