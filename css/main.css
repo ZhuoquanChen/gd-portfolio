@@ -297,13 +297,13 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url("../images/main-pic5.jpg");
+	background-image: url("../images/main-pic3.jpg");
 	background-position: center, top center;
 	background-color: black;
 	min-height: 800px;
 }
 .banner-text {
-	padding-top: 45%;
+	padding-top: 15%;
     text-align: right;
 }
 .banner-text h1 {
@@ -311,7 +311,6 @@ ul li {
 	font-family: "Roboto Slab", sans-serif;
 	font-size: 70px;
 	opacity: 0.85;
-	margin-right: -60px;
 }
 .banner-text p {
 	color: #fff;
@@ -319,8 +318,7 @@ ul li {
 	font-weight: 230;
 	letter-spacing: 0.8px;
 	line-height: 30px;
-	opacity: 0.85;
-	margin-right: -55px;
+	opacity: 0.85
 }
 /* ------------------------------------------------------------------------------
 	About Me Text
